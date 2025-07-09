@@ -16,7 +16,7 @@ Pearson correlation analysis between users
 Ratings-based filtering for high-quality suggestion
 Data visualizations using Matplotlib and Seaborn
 
-Clean, modular notebook structure with reusable code
+Clean, modular notebook structure with reusable code which is done with the help of ai to show that the work which could be done in a weeks time now has been done in 4-5 hrs
 
 Tech Stack: Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · Jupyter Notebook
 

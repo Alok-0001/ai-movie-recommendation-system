@@ -19,3 +19,5 @@ Data visualizations using Matplotlib and Seaborn
 Clean, modular notebook structure with reusable code
 
 Tech Stack: Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · Jupyter Notebook
+
+Dataset link https://files.grouplens.org/datasets/movielens/ml-32m.zip
